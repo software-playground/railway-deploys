@@ -19,3 +19,7 @@
 1. access the project's page. e.g `https://railway.app/project/...`
 2. from *the service's settings* (not the *project's*), click on **Connect Repo**.
    - Be sure to configure `Root Directory` if using a monorepo-like folder structure
+
+## checking logs
+
+`railway logs` lets you see the remote stdout.
